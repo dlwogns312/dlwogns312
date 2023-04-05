@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=White)
+
 ![JaeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwogns312&show_icons=true&theme=vue)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogns312)](https://solved.ac/dlwogns312)
